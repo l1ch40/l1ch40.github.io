@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>李超的博客</title>
+    <link>https://l1ch40.github.io/</link>
+    <description>李超的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    
+    <atom:link href="https://l1ch40.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>关于我</title>
+      <link>https://l1ch40.github.io/about/</link>
+      <pubDate>Tue, 06 Apr 2021 02:44:57 +0800</pubDate>
+      
+      <guid>https://l1ch40.github.io/about/</guid>
+      <description>&lt;h1 id=&#34;我是谁&#34;&gt;我是谁&lt;/h1&gt;
+&lt;p&gt;Hi, 我是李超。&lt;/p&gt;
+&lt;h1 id=&#34;其他&#34;&gt;其他&lt;/h1&gt;
+&lt;p&gt;其他&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
